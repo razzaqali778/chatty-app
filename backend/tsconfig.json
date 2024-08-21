@@ -38,6 +38,7 @@
       "@socket/*": ["src/shared/sockets/*"],
       "@worker/*": ["src/shared/workers/*"],
       "@root/*": ["src/*"]
-    }
+    },
+    "types": ["node"]
   }
 }
